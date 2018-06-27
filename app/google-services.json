@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560794402100",
+    "firebase_url": "https://door-a748e.firebaseio.com",
+    "project_id": "door-a748e",
+    "storage_bucket": "door-a748e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560794402100:android:3f56607ac5805299",
+        "android_client_info": {
+          "package_name": "com.example.bharath.door"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560794402100-2n1sjsko644r78ujbkip1akfobjpl8p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharath.door",
+            "certificate_hash": "07bb926609d6003d8cc31c1815525d14e0153b8b"
+          }
+        },
+        {
+          "client_id": "560794402100-pc7n8sgvrfrp9v808svigmer65ustlgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0jFalQJVtYeWSg58R0_zmnO2s3by326M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560794402100-pc7n8sgvrfrp9v808svigmer65ustlgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
